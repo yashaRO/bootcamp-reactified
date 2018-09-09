@@ -1,0 +1,4 @@
+.triviagame-body .answers p:hover {
+  background-color: lightblue;
+  cursor: pointer;
+}
